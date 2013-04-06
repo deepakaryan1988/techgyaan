@@ -1,0 +1,5 @@
+name = "General Features"
+description = "In this module, we do have form_alter and commonly used functions"
+package = Basta
+core = 7.x
+version = "7.x-1.6"

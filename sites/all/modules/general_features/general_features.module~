@@ -1,0 +1,5 @@
+<?php
+function general_features_node_insert($node) {
+  echo "<pre>";print_r($node);exit;
+}
+?>
